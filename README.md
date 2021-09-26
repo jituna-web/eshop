@@ -1,1 +1,1 @@
-Vzorový kód pro eshop - Ještě nekompletní
+Vzorový kód pro eshop - Ještě nekompletní# eshop
