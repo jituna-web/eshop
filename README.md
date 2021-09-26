@@ -1,3 +1,1 @@
-# eshop
-# eshop
-# eshop-test
+Vzorový kód pro eshop - Ještě nekompletní# eshopTest
